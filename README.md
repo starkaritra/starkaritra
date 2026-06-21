@@ -6,7 +6,7 @@ Brand accent: #7AA2FF on near-black #05060a.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3200&pause=900&color=7AA2FF&center=true&vCenter=true&width=820&lines=Applied+Scientist+%40+Microsoft;Bending+ideas+into+things+that+work;LLM+Evaluation+%7C+Agentic+Systems+%7C+Interpretability;Particle+Physics+%E2%9A%9B%EF%B8%8F+%2B+Quantum+Computing" alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3200&pause=900&color=7AA2FF&center=true&vCenter=true&width=820&lines=Applied+Scientist+Intern+%40+Microsoft;Bending+ideas+into+things+that+work;LLM+Evaluation+%7C+Agentic+Systems+%7C+Interpretability;Particle+Physics+%E2%9A%9B%EF%B8%8F+%2B+Quantum+Computing" alt="typing banner"/>
 </p>
 
 <p align="center">
